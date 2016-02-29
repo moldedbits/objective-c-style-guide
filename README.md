@@ -1,6 +1,6 @@
-# The official raywenderlich.com Objective-C style guide.
+# The official moldedbits Objective-C style guide. This is inspired from  raywenderlich/objective-c-style-guide.
 
-This style guide outlines the coding conventions for raywenderlich.com.
+This style guide outlines the coding conventions for moldedbits.
 
 ## Introduction
 
